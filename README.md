@@ -9,12 +9,14 @@
 ## Skill
 
 # front-end
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Next.js-white?style=flat-square&logo=Next.js&logoColor=000000"/></a> &nbsp
+<img src="https://img.shields.io/badge/Next.js-white?style=flat-square&logo=Next.js&logoColor=000000"/></a>
 
 # ETC
-<img src="https://img.shields.io/badge/Google Cloud-white?style=flat-square&logo=Google Cloud&logoColor=4285F4"/></a> &nbsp
+<img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> &nbsp
