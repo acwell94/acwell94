@@ -1,6 +1,6 @@
 ### 안녕하세요! 김민영입니다. 👋
 
-<a href="https://velog.io/@acwell94"><img src="https://img.shields.io/badge/Blog-ffffff?style=flat-square&logo=Micro.blog&logoColor=12b886"/></a>
+<a href="https://velog.io/@acwell94"><img src="https://img.shields.io/badge/Blog-12b886?style=flat-square&logo=Micro.blog&logoColor=ffffff"/></a>
 
 
 💻 매일 조금씩 성장하는 프론트엔드 개발자입니다.
