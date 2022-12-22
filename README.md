@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=RECOIL&logoColor=white"/>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Rest--api-61DAFB?style=flat-square&logo=Rest&logoColor=white"/>
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="48" height="48" />
 </p>
 
 
