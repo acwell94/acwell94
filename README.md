@@ -23,7 +23,7 @@
 
 ### front-end
 <p>
-<img src="https://img.shields.io/badge/Redux-toolkit-61DAFB?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Reduxtoolkit-61DAFB?style=flat-square&logo=Redux&logoColor=white"/>
 </p>
 
 ### ETC
