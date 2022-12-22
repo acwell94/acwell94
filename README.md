@@ -27,9 +27,7 @@
 <img src="https://img.shields.io/badge/Redux--toolkit-61DAFB?style=flat-square&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=RECOIL&logoColor=white"/>
 </p>
-<p align="center">
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="48" height="48" />
-</p>
+
 
 
 ## etc
@@ -44,5 +42,8 @@
 <p align="center">
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apollo Client-311C87?style=flat-square&logo=Apollo GraphQL&logoColor=white"/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Axois-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="48" height="48" />
 </p>
