@@ -48,5 +48,5 @@
   
 </p>
 <p align="center">
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="36" height="36" />
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="40" height="40" />
 </p>
