@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/styled--components-3C3C3C?style=flat-square&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/emotion-82487E?style=flat-square&logo=emotion&logoColor=white"/>
 </p>
 <p align="center">
@@ -35,6 +35,7 @@
 ## etc
 <p align="center">
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
