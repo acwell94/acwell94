@@ -19,13 +19,15 @@
 <img src="https://img.shields.io/badge/Expo-25292E?style=flat-square&logo=Expo&logoColor=white">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 </p>
-
+<p align="center">
+<img src="https://img.shields.io/badge/styled--components-%23F05033?style=for-the-badge&logo=styled-components&logoColor=white"/>
+</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Reduxtoolkit-61DAFB?style=flat-square&logo=Redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=RECOIL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=RECOIL&logoColor=white"/>
 </p>
 
-### ETC
+## Experienced
 <p align="center">
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/>
 </p>
