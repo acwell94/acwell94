@@ -5,9 +5,8 @@
 
 <li>💻 오늘 보다 내일 더 성장하는 프론트엔드 개발자입니다.</li>
 <li>항상 긍정적인 마인드로 어떠한 상황에서도 최선의 결과를 도출하기 위해 노력합니다!</li>
-## Skill
 
-### front-end
+## Main-Stack
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -21,10 +20,9 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 </p>
 
-### 상태관리
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Reduxtoolkit-61DAFB?style=flat-square&logo=Redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=RECOIL&logoColor=white"/>
 </p>
 
 ### ETC
