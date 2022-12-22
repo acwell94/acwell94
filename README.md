@@ -43,5 +43,5 @@
 <p align="center">
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apollo Client-311C87?style=flat-square&logo=Apollo GraphQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Axoist-311C87?style=flat-square&logo=AxiosL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Axois-311C87?style=flat-square&logo=AxiosL&logoColor=white"/>
 </p>
