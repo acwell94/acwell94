@@ -27,6 +27,10 @@
 <img src="https://img.shields.io/badge/Redux--toolkit-61DAFB?style=flat-square&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=RECOIL&logoColor=white"/>
 </p>
+<p align="center">
+<img src="https://img.shields.io/badge/Rest--api-61DAFB?style=flat-square&logo=Rest&logoColor=white"/>
+</p>
+
 
 ## Experienced
 <p align="center">
