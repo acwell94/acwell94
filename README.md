@@ -21,9 +21,10 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 </p>
 
-### front-end
+### 상태관리
 <p>
 <img src="https://img.shields.io/badge/Reduxtoolkit-61DAFB?style=flat-square&logo=Redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/>
 </p>
 
 ### ETC
