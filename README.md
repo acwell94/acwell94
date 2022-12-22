@@ -21,6 +21,11 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 </p>
 
+### front-end
+<p>
+<img src="https://img.shields.io/badge/Redux-toolkit-61DAFB?style=flat-square&logo=HTML5&logoColor=white"/>
+</p>
+
 ### ETC
 <p align="center">
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/>
