@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/styled--components-23F05033?style=flat-square&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/styled--components-3C3C3C?style=flat-square&logo=styled-components&logoColor=white"/>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Reduxtoolkit-61DAFB?style=flat-square&logo=Redux&logoColor=white"/>
