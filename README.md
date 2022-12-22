@@ -45,5 +45,5 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Axois-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="24" height="24"/>
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="36" height="36" marginLeft="10"/>
 </p>
