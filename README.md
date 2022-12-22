@@ -4,9 +4,9 @@
 <a href="https://scarlet-wolverine-de7.notion.site/Minyoung-Kim-75de3e7bfee04553b67c647a9bbc8d0c"><img src="https://img.shields.io/badge/Portfolio-white?style=flat-square&logo=Notion&logoColor=000000"/></a>
 
 <li>💻 오늘 보다 내일 더 성장하는 프론트엔드 개발자입니다.</li>
-<li>항상 긍정적인 마인드로 어떠한 상황에서도 최선의 결과를 도출하기 위해 노력합니다!</li>
+<li>👍 항상 긍정적인 마인드로 어떠한 상황에서도 최선의 결과를 도출하기 위해 노력합니다</li>
 
-## Main-Stack
+## Front-end
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -32,7 +32,7 @@
 </p>
 
 
-## Experienced
+## etc
 <p align="center">
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/>
 </p>
@@ -43,4 +43,5 @@
 <p align="center">
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apollo Client-311C87?style=flat-square&logo=Apollo GraphQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Axoist-311C87?style=flat-square&logo=AxiosL&logoColor=white"/>
 </p>
