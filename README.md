@@ -21,7 +21,7 @@
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/styled--components-3C3C3C?style=flat-square&logo=styled-components&logoColor=white"/>
-  <img src="https://img.shields.io/badge/emotion-3C3C3C?style=flat-square&logo=emotion&logoColor=82487E"/>
+  <img src="https://img.shields.io/badge/emotion-82487E?style=flat-square&logo=emotion&logoColor=white"/>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Redux--toolkit-61DAFB?style=flat-square&logo=Redux&logoColor=white"/>
