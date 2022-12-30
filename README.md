@@ -3,7 +3,7 @@
 <a href="https://velog.io/@acwell94"><img src="https://img.shields.io/badge/Blog-12b886?style=flat-square&logo=Micro.blog&logoColor=ffffff"/></a>
 <a href="https://scarlet-wolverine-de7.notion.site/Minyoung-Kim-75de3e7bfee04553b67c647a9bbc8d0c"><img src="https://img.shields.io/badge/Portfolio-white?style=flat-square&logo=Notion&logoColor=000000"/></a>
 
-<li>💻 오늘 보다 내일 더 성장하는 프론트엔드 개발자입니다.</li>
+<li>💻 오늘 보다 내일이 더 기대되는 프론트엔드 개발자입니다.</li>
 <li>👍 항상 긍정적인 마인드로 어떠한 상황에서도 최선의 결과를 도출하기 위해 노력합니다</li>
 
 ## Front-end
@@ -51,4 +51,12 @@
 </p>
 <p align="center">
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="40" height="40" />
+</p>
+
+
+
+## studying
+
+<p align="center">
+<img src="https://img.shields.io/badge/Express-E10098?style=flat-square&logo=Express&logoColor=white"/>
 </p>
