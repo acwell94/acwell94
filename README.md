@@ -5,9 +5,9 @@
 
 <li>💻 오늘 보다 내일이 더 기대되는 프론트엔드 개발자입니다.</li>
 <li>👍 항상 긍정적인 마인드로 어떠한 상황에서도 최선의 결과를 도출하기 위해 노력합니다</li>
-
+<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acwell94&show_icons=true&theme=merko)
-
+<br/>
 ## Front-end
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
