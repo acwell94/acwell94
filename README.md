@@ -3,8 +3,9 @@
 <a href="https://velog.io/@acwell94"><img src="https://img.shields.io/badge/Blog-12b886?style=flat-square&logo=Micro.blog&logoColor=ffffff"/></a>
 <a href="https://scarlet-wolverine-de7.notion.site/Minyoung-Kim-75de3e7bfee04553b67c647a9bbc8d0c"><img src="https://img.shields.io/badge/Portfolio-white?style=flat-square&logo=Notion&logoColor=000000"/></a>
 
-<li>💻 오늘 보다 내일이 더 기대되는 프론트엔드 개발자입니다.</li>
-<li>👍 항상 긍정적인 마인드로 어떠한 상황에서도 최선의 결과를 도출하기 위해 노력합니다</li><br>
+<li>💻 대화로 일하는 개발자, 김민영입니다.</li>
+<li>👍 항상 긍정적인 마인드로 어떠한 상황에서도 최선의 결과를 도출하기 위해 노력합니다</li>
+<li>🛠 유저 플로우에 관심이 많으며 사용자 입장에서 좀 더 직관적이고 쉽게 목표에 다다를 수 있는 서비스를 위해 기획, 디자인 단계에서 적극적으로 참여 하고 있습니다.</li><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acwell94&show_icons=true&theme=merko)<br>
 
