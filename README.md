@@ -7,7 +7,7 @@
 <li>👍 항상 긍정적인 마인드로 어떠한 상황에서도 최선의 결과를 도출하기 위해 노력합니다</li>
 <li>🛠 유저 플로우에 관심이 많으며 사용자 입장에서 좀 더 직관적이고 쉽게 목표에 다다를 수 있는 서비스를 위해 기획, 디자인 단계에서 적극적으로 참여 하고 있습니다.</li><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acwell94&show_icons=true&theme=merko)<br>
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acwell94&show_icons=true&theme=merko)<br> -->
 
 
 ## Front-end
