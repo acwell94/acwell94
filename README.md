@@ -31,6 +31,12 @@
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=RECOIL&logoColor=white"/>
 </p>
 
+## Back-end
+
+<p align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+</p>
 
 
 ## etc
@@ -50,10 +56,6 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Axois-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>
-  
-</p>
-<p align="center">
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="40" height="40" />
 </p>
 
 
@@ -61,6 +63,5 @@
 ## studying
 
 <p align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
 </p>
